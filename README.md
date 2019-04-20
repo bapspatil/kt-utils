@@ -1,4 +1,4 @@
-# kotlin-utils
+# kt-utils
 A set of super-helpful Kotlin extension functions.
 
 ## Author
